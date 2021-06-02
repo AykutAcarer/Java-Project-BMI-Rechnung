@@ -1,5 +1,8 @@
 package code.bmi;
-
+/**
+ * @author Aykut Acarer
+ * 
+ */
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileOutputStream;

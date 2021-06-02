@@ -1,4 +1,9 @@
 package code.bmi;
+/**
+ * @author Aykut Acarer
+ * 
+ */
+
 public class Berechnung {
 
 	float gewicht, groesse;

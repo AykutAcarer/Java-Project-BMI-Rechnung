@@ -1,5 +1,8 @@
 package code.bmi;
-
+/**
+ * @author Aykut Acarer
+ * 
+ */
 public class Ausgabe {
 	String geschlecht;
 	String ergebnis;
